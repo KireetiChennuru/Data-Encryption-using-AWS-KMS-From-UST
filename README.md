@@ -13,7 +13,6 @@ Project Objectives:
 3. Ensure compliance with security standards
 4. Document project findings and results
 <br>
-
 Project Structure:
 <br>
 Introduction to AWS KMS
