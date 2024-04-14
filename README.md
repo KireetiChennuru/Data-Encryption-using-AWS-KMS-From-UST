@@ -16,19 +16,19 @@ Project Objectives:
 Project Structure:
 <br>
 Introduction to AWS KMS
-- Overview of AWS Key Management Service and its role in data encryption.
+<br> Overview of AWS Key Management Service and its role in data encryption.
 <br>
 Key Management
 <br> Management of cryptographic keys using AWS KMS for secure data encryption.
 <br>
 Cryptography Principles
-- Understanding cryptographic principles and their application in data security.
+<br> Understanding cryptographic principles and their application in data security.
 <br>
 Data Encryption
-- Implementation of data encryption techniques using AWS KMS for enhanced security.
+<br> Implementation of data encryption techniques using AWS KMS for enhanced security.
 <br>
 Compliance and Security Standards
-- Ensuring compliance with security standards and best practices.
+<br> Ensuring compliance with security standards and best practices.
 <br>
 Documentation and Reporting
-- Compilation of project findings, results, and insights into a comprehensive report.
+<br> Compilation of project findings, results, and insights into a comprehensive report.
