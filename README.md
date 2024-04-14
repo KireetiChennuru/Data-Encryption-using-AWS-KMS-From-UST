@@ -2,7 +2,7 @@
 <br>
 
 ## Introduction:
-<br>
+
 The project focused on implementing data encryption using AWS Key Management Service (KMS) from UST, aiming to enhance data security and compliance with privacy regulations. Key aspects of the project included key management, cryptography, data security, and leveraging AWS cloud services.
 <br>
 
@@ -15,7 +15,7 @@ The project focused on implementing data encryption using AWS Key Management Ser
 <br>
 
 ## Project Structure:
-<br>
+
 ### Introduction to AWS KMS
 * Overview of AWS Key Management Service and its role in data encryption.
 <br>
