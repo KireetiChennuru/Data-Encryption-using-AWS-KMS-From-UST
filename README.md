@@ -19,7 +19,7 @@ Introduction to AWS KMS
 - Overview of AWS Key Management Service and its role in data encryption.
 <br>
 Key Management
-- Management of cryptographic keys using AWS KMS for secure data encryption.
+<br> Management of cryptographic keys using AWS KMS for secure data encryption.
 <br>
 Cryptography Principles
 - Understanding cryptographic principles and their application in data security.
