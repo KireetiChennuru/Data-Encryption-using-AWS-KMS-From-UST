@@ -7,7 +7,7 @@ The project focused on implementing data encryption using AWS Key Management Ser
 <br>
 
 ## Project Objectives:
-<br>
+
 1. Implement data encryption using AWS KMS
 2. Understand cryptographic principles for data security
 3. Ensure compliance with security standards
