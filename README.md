@@ -13,6 +13,7 @@ The project focused on implementing data encryption using AWS Key Management Ser
 3. Ensure compliance with security standards
 4. Document project findings and results
 <br>
+
 ## Project Structure:
 <br>
 ### Introduction to AWS KMS
